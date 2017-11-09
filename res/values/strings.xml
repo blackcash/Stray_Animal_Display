@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">流浪動物查詢</string>
+    <string name="strName">名稱</string>
+    <string name="strSex">性別</string>
+    <string name="strType">動物種類</string>
+    <string name="strBuild">體型</string>
+    <string name="strAge">年齡</string>
+    <string name="strVariety">品種</string>
+    <string name="strReason">進所原因</string>
+    <string name="strAcceptNum">收容編號</string>
+    <string name="strChipNum">晶片號碼</string>
+    <string name="strIsSterilization">絕育否</string>
+    <string name="strHairType">毛色</string>
+    <string name="strNote">描述</string>
+    <string name="strResettlement">位置</string>
+    <string name="strPhone">聯絡電話</string>
+    <string name="strEmail">聯絡email</string>
+    <string name="strChildreAnlong">可否與其他孩童相處</string>
+    <string name="strAnimalAnlong">可否與其他動物相處</string>
+    <string name="strBodyweight">體重</string>
+    <string name="strImageName">圖片</string>
+
+</resources>
